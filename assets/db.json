@@ -1,0 +1,32 @@
+
+{
+  "Account": [
+    {
+      "id": 1,
+      "name": "Tom",
+      "password":"azerty",
+      "description": "Tom est un super compte avec des favoris éducatifs cools !",
+      "mail": "tom.duris@hotmail.fr",
+      "historique": "",
+      "url":"https://yt3.ggpht.com/ytc/AAUvwniN65EvEhafOBTMUP4eYMAtoQeGW47tzIwiIGXVSE4=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 2,
+      "name": "Laura",
+      "password":"azerty",
+      "description": "Laura est un super compte avec des favoris éducatifs cools !",
+      "mail": "Laura",
+      "historique": "",
+      "url":""
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "password":"test",
+      "description": "Amaury est un super compte avec des favoris éducatifs cools !",
+      "mail": "test",
+      "historique": "",
+      "url":"https://yt3.ggpht.com/ytc/AAUvwniN65EvEhafOBTMUP4eYMAtoQeGW47tzIwiIGXVSE4=s900-c-k-c0x00ffffff-no-rj"
+    }
+  ]
+}
